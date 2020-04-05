@@ -2,5 +2,6 @@
 
 ## Criar novo repositório
 
----
+```
 git init
+```
