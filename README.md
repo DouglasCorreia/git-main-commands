@@ -1,4 +1,4 @@
-# Lista de comandos do git
+# Lista dos comandos mais usuados do git
 
 ### Criar novo repositório
 
