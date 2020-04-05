@@ -1,2 +1,7 @@
-# git-main-commands
-A list with the main commands of git.
+# Lista de comandos do git
+
+## Criar novo repositório
+
+---
+git init
+---
